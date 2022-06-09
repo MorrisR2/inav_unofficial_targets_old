@@ -23,3 +23,7 @@ of this repository (Sensei) didn't write this code and may not own the hardware.
 The only exception is Airbot Omnibus boards. The maintainer of this repo
 does own Omnibus flight controllers and is familiar with ONLY those boards.
 
+These files are not a product of the official inav project and are not endorsed 
+by the project or affiliated with it. These files may or may not work well for you.
+They have been provided by people who made them for their own use and report that the files work for them.
+
